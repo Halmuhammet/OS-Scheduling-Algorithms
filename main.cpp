@@ -1,5 +1,5 @@
 /*=============================================================================
- * Title        : assignment_5.cpp
+ * Title        : main.cpp
  * Description  : This program implements 6 scheduling algorithms: FCFS, RR, SPN, SRT, HRRN, FEEDBACK
  *                First it stores the processes to a ready queue as a nested queue, then fetches that queue to the schedulers.
  * Author       : Halmuhammet Muhamedorazov
