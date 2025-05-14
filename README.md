@@ -116,11 +116,7 @@ Contributions are welcome! Here are some ways you can contribute:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
-
-- **Halmuhammet Muhamedorazov**
-
 ## Acknowledgments
 
-- This project was created as an educational tool for understanding CPU scheduling algorithms
+- This project was created as an educational tool for understanding OS scheduling algorithms
 - Inspired by operating systems coursework and textbooks on OS concepts
