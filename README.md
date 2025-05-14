@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A comprehensive implementation of six common CPU scheduling algorithms in C++. This program simulates how different scheduling algorithms manage process execution, providing valuable insights into operating system process management.
+This program simulates how different Operating System scheduling algorithms manage process execution.
 
 ## Implemented Algorithms
 
