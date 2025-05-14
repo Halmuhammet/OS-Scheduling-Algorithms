@@ -27,7 +27,7 @@ This simulator implements the following scheduling algorithms:
 ### Compilation
 
 ```bash
-g++ -std=c++11 assignment_5.cpp -o cpu_scheduler
+g++ -std=c++11 main.cpp -o cpu_scheduler
 ```
 
 ### Usage
