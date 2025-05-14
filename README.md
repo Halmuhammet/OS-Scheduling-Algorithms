@@ -17,13 +17,6 @@ This simulator implements the following scheduling algorithms:
 5. **Highest Response Ratio Next (HRRN)** - Non-preemptive algorithm that selects processes based on (wait_time + service_time)/service_time
 6. **Feedback Queue** - Multi-level priority queue system that demotes processes to lower priority queues as they consume CPU time
 
-## Key Features
-
-- Detailed implementation of multiple scheduling algorithms in a single program
-- Use of efficient data structures (deque) for process management
-- Comprehensive output generation for algorithm comparison
-- Modular design with separate functions for each scheduling algorithm
-
 ## Getting Started
 
 ### Prerequisites
