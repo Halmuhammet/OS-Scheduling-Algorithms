@@ -3,7 +3,8 @@
  * Description  : This program implements 6 scheduling algorithms: FCFS, RR, SPN, SRT, HRRN, FEEDBACK
  *                First it stores the processes to a ready queue as a nested queue, then fetches that queue to the schedulers.
  * Author       : Halmuhammet Muhamedorazov
- * Date         : 01/01/2001Version : 1.0
+ * Date         : 03.03.2024
+ * Version      : 1.0
  * Usage        : Compile and run this program using the GNUC++ compiler
  * Notes        : This program has no requirements.
  * C++ Version  :
